@@ -18,7 +18,14 @@ header{
 }
 
 main{
-    margin: 10px;
+    margin: auto;
+    width: 900px;
+}
+
+img{
+    margin: auto;
+    width: 430px;
+    height: 200px;
 }
 
 h1{
