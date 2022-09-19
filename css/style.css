@@ -51,8 +51,8 @@ h1{
     
 }
 
-p, ul, table{
-    margin-top: 10px;
+p, ul, table, div{
+    margin-top: 20px;
 }
 
 .text-decoration{
@@ -80,4 +80,33 @@ th{
 
 .tr-color{
     background-color: aquamarine;
+}
+
+.decoration-footer{
+    color: grey;
+    font-weight: bold;
+}
+
+.article-footer{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color:  white;
+    font-size: 18px;
+    font-weight: bold;
+    width: 200px;
+    height: 100px;  
+    padding: 10px;
+}
+
+.article-footer-2{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color:  white;
+    font-size: 18px;
+    font-weight: bold;
+    width: 200px;
+    height: 100px;  
+    padding: 10px;
 }
