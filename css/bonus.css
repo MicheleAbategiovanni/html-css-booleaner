@@ -5,13 +5,16 @@
 header{
     background-color: #0087ff;
     width: auto;
-    height: 180px;
+    height: 140px;
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
+    background-position-x: -15%;
+    background-position-y: 12%;
+    background-size: 33%;
 }
 
 #logo{
-    margin-top: 80px;
+    margin-top: 50px;
     margin-left: 10px;
     width: 250px;
     height: auto;
@@ -33,6 +36,7 @@ h1{
 }
 
 .write-font{
+    
     color: grey;
 }
 
@@ -41,6 +45,7 @@ h1{
 }
 
 .write-date{
+    margin: auto;
     color: grey;
     font-size: 12px;
 }
