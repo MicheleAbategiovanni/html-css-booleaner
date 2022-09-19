@@ -44,3 +44,24 @@ h1{
 .photo-credit{
     font-size: 12px;
 }
+
+.contenent{
+    margin-top: 10px;
+    
+}
+
+p, ul{
+    margin-top: 10px;
+}
+
+.text-decoration{
+    background-color: yellow;
+}
+
+ul{
+    padding: 10px;
+}
+
+table{
+    text-align: justify;
+}
