@@ -44,7 +44,7 @@ h1{
     color: aqua;
 }
 
-.date{
+.write-date{
     margin: auto;
     color: grey;
     font-size: 12px;
@@ -95,7 +95,7 @@ th{
     background-color: aquamarine;
 }
 
-.decoration-footer{
+.text-footer{
     color: grey;
     font-weight: bold;
 }
