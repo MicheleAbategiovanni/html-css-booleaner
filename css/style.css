@@ -1,6 +1,7 @@
 *{
     margin: 0px;
 }
+
 header{
     background-color: #0087ff;
     width: auto;
@@ -50,7 +51,7 @@ h1{
     
 }
 
-p, ul{
+p, ul, table{
     margin-top: 10px;
 }
 
@@ -64,4 +65,19 @@ ul{
 
 table{
     text-align: justify;
+    border-spacing: 0px;
+}
+
+thead{
+    color: white;
+    background-color: #0087ff;
+
+}
+
+th{
+    width: 10%;
+}
+
+.tr-color{
+    background-color: aquamarine;
 }
