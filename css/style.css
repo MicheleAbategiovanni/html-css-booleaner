@@ -15,3 +15,24 @@ header{
     width: 250px;
     height: auto;
 }
+
+main{
+    margin: 10px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.write-font{
+    color: grey;
+}
+
+.author{
+    color: aqua;
+}
+
+.write-date{
+    color: grey;
+    font-size: 12px;
+}
