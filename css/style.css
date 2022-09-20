@@ -43,7 +43,12 @@ p, ul, table, div{
     font-size: 12px;
 }
 
-.img-article{
+.photo-article{
+    width: 49%;
+    height: 600px;
+}
+
+.section-article{
     margin-top: 20px;
 }
 
