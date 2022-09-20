@@ -5,12 +5,9 @@
 header{
     background-color: #0087ff;
     width: auto;
-    height: 140px;
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
-    background-position-x: -15%;
-    background-position-y: 12%;
-    background-size: 33%;
+    background-size: auto 200%;
 }
 
 #logo{
